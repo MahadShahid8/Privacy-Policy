@@ -11,14 +11,14 @@ Information Collection and Use
 The app does collect any personally identifiable information.
 
 
-- What type of data
+- What type of data:
 Email Address
 Password
-- How it's used
+- How it's used:
 For Authentication/Identification
-- How it's stored
+- How it's stored:
 Using strong encryption algorithm in a secured DataBase
-- Who has access
+- Who has access:
 Only the user
 
 Log Data
