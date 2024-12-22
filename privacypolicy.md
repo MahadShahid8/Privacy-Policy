@@ -8,7 +8,7 @@ This page informs visitors regarding our policies with the collection, use, and 
 
 Information Collection and Use
 
-The app does collect any personally identifiable information.
+The app does collect personally identifiable information.
 
 
 - What type of data:
